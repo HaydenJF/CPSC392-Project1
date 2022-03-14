@@ -3,4 +3,4 @@ Personal Info a. Hayden Fargo b. 2367276 c. fargo@chapman.edu d. CPSC 392-02 e. 
 
 No errors :)
 
-References Questions channel in slack (for rough outline) Lecture notes 3-7 (Used as Templates for code) Classworks 3-7 (Used as Templates for code) https://stackoverflow.com/questions/51091132/pandas-and-scikit-learn-keyerror-not-in-index (For an error I was having) http://www.sthda.com/english/wiki/ggplot2-axis-scales-and-transformations (for ylim)
+References Questions channel in slack (for rough outline) Lecture notes 3-9 (Used as Templates for code) Classworks 3-9 (Used as Templates for code) https://stackoverflow.com/questions/51091132/pandas-and-scikit-learn-keyerror-not-in-index (For an error I was having) http://www.sthda.com/english/wiki/ggplot2-axis-scales-and-transformations (for ylim)
